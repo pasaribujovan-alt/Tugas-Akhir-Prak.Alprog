@@ -93,13 +93,11 @@ PROJECT/
 
 📌 Tempatkan gambar hasil Scatter Plot pada lokasi berikut:
 
-```markdown
-![Scatter Plot](images/scatter_plot.png)
-```
-
 🖼️ HASIL:
+![Scatter Plot](images/scatter_plot.png)
 
-[MASUKKAN GAMBAR SCATTER PLOT DI SINI]
+
+
 
 ---
 
@@ -109,13 +107,10 @@ PROJECT/
 
 📌 Tempatkan gambar hasil agregasi:
 
-```markdown
-![Agregasi](images/agregasi.png)
-```
-
 🖼️ HASIL:
+![Agregasi](images/agregasi.png)
 
-[MASUKKAN GAMBAR HASIL AGREGASI DI SINI]
+
 
 ---
 
@@ -125,13 +120,10 @@ PROJECT/
 
 📌 Tempatkan gambar hasil tren/filter:
 
-```markdown
-![Trend Filter](images/tren_filter.png)
-```
-
 🖼️ HASIL:
+![Trend Filter](images/tren_filter.png)
 
-[MASUKKAN GAMBAR TREN DAN FILTER DI SINI]
+
 
 ---
 
@@ -141,15 +133,10 @@ PROJECT/
 
 📌 Tempatkan gambar hasil distribusi:
 
-```markdown
-![Distribusi](images/distribusi.png)
-```
-
 🖼️ HASIL:
+![Distribusi](images/distribusi.png)
 
-[MASUKKAN GAMBAR DISTRIBUSI DATA DI SINI]
 
----
 
 # 🖼️ Dashboard Gabungan (Grid 2 × 2)
 
@@ -165,36 +152,10 @@ Tujuan dari dashboard ini adalah menggabungkan seluruh visualisasi yang telah di
 
 📌 Tempatkan gambar dashboard:
 
-```markdown
+🖼️ HASIL:
 ![Dashboard](images/dashboard_2x2.png)
-```
 
-🖼️ HASIL:
 
-[MASUKKAN GAMBAR DASHBOARD 2×2 DI SINI]
-
----
-
-# 🎨 Infografis Laporan Akhir
-
-Infografis dibuat secara kolaboratif oleh seluruh anggota kelompok untuk menyajikan hasil analisis data dalam bentuk visual yang lebih ringkas dan menarik.
-
-👥 Dikerjakan oleh:
-
-* Jovan Arsenio Pasaribu
-* Dhio Rafid Al Akbar
-* Muhammad Iqbal Mahesa Suherman
-* Rizki Abidilah Urahman D
-
-📌 Tempatkan infografis pada:
-
-```markdown
-![Infografis](images/infografis.png)
-```
-
-🖼️ HASIL:
-
-[MASUKKAN INFOGRAFIS DI SINI]
 
 ---
 
